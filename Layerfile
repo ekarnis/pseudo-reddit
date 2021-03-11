@@ -1,4 +1,4 @@
-Layerfile
+
 #This is an example LayerCI configuration for React!
 FROM vm/ubuntu:18.04
 
